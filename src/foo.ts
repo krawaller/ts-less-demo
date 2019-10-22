@@ -1,3 +1,3 @@
-import styles from "./foo.less";
+import { lessIsMore } from "./foo.less";
 
-export const favouriteStyle = styles.lessIsMore;
+export const favouriteStyle = lessIsMore;
